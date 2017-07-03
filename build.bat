@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed parksensor_config.py
